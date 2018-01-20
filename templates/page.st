@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8" />
         <title>$pagetitle$ - $wikititle$</title>
-	<link rel="icon" href="https://wiki.appsoner.com/favicon.ico" />
+        <link rel="icon" href="img/favicon.ico" type="image/x-icon">  
+        <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">  
         <link rel="stylesheet" href="$base$/css/bootstrap.min.css" />
         <link rel="stylesheet" href="$base$/css/gitit.min.css" />
         $if(feed)$
