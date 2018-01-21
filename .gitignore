@@ -2,3 +2,5 @@ cache/
 gitit.log
 node_modules/
 wikidata/
+*/.DS_Store
+.DS_Store
